@@ -7,7 +7,7 @@ with GitHub Pages.
 
 ## About the course
 
-Honors 241 explores the nature of consciousness through classical and
+Honors 241, taught by Professor George Hoffmann, explores the nature of consciousness through classical and
 contemporary works of philosophy, from Socrates to cyborgs. Taking the HBO
 series *Westworld* and its speculation about humans' robotic nature as a
 starting point, the course examines attention, memory, and the question of
