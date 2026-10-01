@@ -62,11 +62,12 @@ CSS to the team's repository here, and GitHub Pages publishes it.
 
 ## Finding a portfolio
 
-Each repository is named for its team — the teams are named after
-*Westworld* characters — and is published at:
+Each repository is named for its term and team, as `year-semester-team` —
+the teams are named after *Westworld* characters. For example, team Dolores
+in Fall 2026 is `2026-fall-dolores`, published at:
 
 ```
-https://um-lrc-hnr241.github.io/<repository-name>/
+https://um-lrc-hnr241.github.io/2026-fall-dolores/
 ```
 
 ## About this organization
